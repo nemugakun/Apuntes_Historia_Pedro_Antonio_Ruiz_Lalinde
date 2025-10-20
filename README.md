@@ -32,3 +32,43 @@ A continuación se incluyen diversos recursos complementarios relacionados con l
 
 > ⚠️ **Nota:** Algunos de estos enlaces corresponden a sitios antiguos o archivados.  
 > Se recomienda comprobar su disponibilidad o acceder mediante herramientas como [Internet Archive](https://archive.org/web/).
+
+---
+
+## 📜 Licencia y Derechos de Autor
+
+Los apuntes incluidos en este repositorio son obra de **Pedro Antonio Ruíz Lalinde**, profesor de **Geografía e Historia del IES Ciudad de Haro (La Rioja)**.  
+Fueron originalmente publicados de forma abierta en su página web:  
+[http://sauce.pntic.mec.es/~prul0001/index.htm](http://sauce.pntic.mec.es/~prul0001/index.htm) *(actualmente cerrada).*
+
+Este repositorio tiene **fines exclusivamente educativos y de conservación**, sin ánimo de lucro, con el único propósito de mantener accesibles unos materiales que fueron públicos y de gran valor didáctico.  
+
+> Si los titulares de los derechos de autor desean que el material sea modificado o retirado, pueden solicitarlo mediante una incidencia (*issue*) o contacto directo a través de este repositorio.
+
+---
+
+### 📘 Licencia del Repositorio
+
+El contenido original (apuntes y materiales del profesor Pedro Antonio Ruíz Lalinde) **mantiene sus derechos de autor originales**.  
+No se otorgan derechos de redistribución comercial ni se garantiza una licencia abierta sobre dichos textos.
+
+El resto del contenido de este repositorio —como la organización, estructura, documentación complementaria y archivos creados por el mantenedor actual— se publica bajo la siguiente licencia:
+
+**[Creative Commons Atribución – No Comercial – Compartir Igual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)**
+
+Esto significa que:
+- Puedes copiar, distribuir y adaptar este contenido,  
+- Siempre que cites la fuente,  
+- No lo utilices con fines comerciales,  
+- Y compartas cualquier obra derivada bajo la misma licencia.
+
+---
+
+### 🙏 Créditos
+
+- **Autor original de los apuntes:** Pedro Antonio Ruíz Lalinde  
+  Profesor de Geografía e Historia — IES Ciudad de Haro (La Rioja)  
+- **Recopilación y conservación digital:** Néstor Fabio Muñoz García
+- **Repositorio:** **[https://github.com/nemugakun/Apuntes_Historia_Pedro_Antonio_Ruiz_Lalinde](https://github.com/nemugakun/Apuntes_Historia_Pedro_Antonio_Ruiz_Lalinde)**
+
+---
